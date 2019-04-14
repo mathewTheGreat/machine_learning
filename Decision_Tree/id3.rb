@@ -1,8 +1,4 @@
 =begin
-	##Group Members
-	P15/1550/2015
-	P15/1580/2015
-	P15/1570/2015
 =end
 include Math
 =begin
